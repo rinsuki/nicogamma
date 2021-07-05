@@ -1,0 +1,23 @@
+[
+  {
+    "thread": {
+      "resultcode": 0,
+      "thread": "1",
+      "server_time": 1625470911,
+      "last_res": 1,
+      "ticket": "0x00000000",
+      "revision": 0,
+      "click_revision": 0
+    }
+  },
+  {
+    "chat": {
+      "thread": "1",
+      "no": 1,
+      "vpos": 100,
+      "date": 1,
+      "user_id": "1",
+      "content": ">>1"
+    }
+  }
+]

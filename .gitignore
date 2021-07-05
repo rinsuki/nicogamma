@@ -1,0 +1,15 @@
+dist
+
+# yarn v2
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+.pnp.*
+.vscode
+
+
+data/*.swf
+data/threads/*
+!data/threads/1.json
+data/videos/*
+!data/videos/sm0
